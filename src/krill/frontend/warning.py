@@ -1,0 +1,2 @@
+class Warning:
+    ALL = Warning()
